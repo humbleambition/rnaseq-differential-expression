@@ -1,0 +1,21 @@
+"term","direction","DE","N","FDR","ratio"
+"regulation of system process","Up",33,359,3.37688900911254e-05,0.0919220055710306
+"muscle system process","Up",29,303,7.53009111185704e-05,0.0957095709570957
+"extracellular matrix organization","Up",26,252,7.53009111185704e-05,0.103174603174603
+"extracellular structure organization","Up",26,252,7.53009111185704e-05,0.103174603174603
+"external encapsulating structure organization","Up",26,254,8.53220121815754e-05,0.102362204724409
+"cell-substrate adhesion","Up",28,289,8.88136125457517e-05,0.0968858131487889
+"cellular response to hormone stimulus","Up",37,484,0.000327522492570144,0.0764462809917355
+"negative regulation of cell motility","Up",24,243,0.000343106725131946,0.0987654320987654
+"blood vessel morphogenesis","Up",37,494,0.000467735504363824,0.0748987854251012
+"negative regulation of cell migration","Up",23,234,0.000550496208652633,0.0982905982905983
+"plasma membrane bounded cell projection morphogenesis","Down",42,498,4.66475653703539e-06,0.0843373493975904
+"neuron projection morphogenesis","Down",41,482,5.3115314997986e-06,0.0850622406639004
+"blood circulation","Down",33,343,7.14567579224086e-06,0.0962099125364431
+"regulation of blood circulation","Down",22,170,1.01264964114285e-05,0.129411764705882
+"circulatory system process","Down",36,409,1.42007394532848e-05,0.0880195599022005
+"G protein-coupled receptor signaling pathway","Down",37,431,1.68595292463143e-05,0.08584686774942
+"cell morphogenesis involved in neuron differentiation","Down",37,436,2.19987752471333e-05,0.0848623853211009
+"axonogenesis","Down",31,330,2.70824370812352e-05,0.0939393939393939
+"regulation of nervous system development","Down",31,333,3.05043410188436e-05,0.0930930930930931
+"axon guidance","Down",20,154,3.1880295340933e-05,0.12987012987013

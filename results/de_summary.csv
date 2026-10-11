@@ -1,0 +1,13 @@
+"metric","value"
+"Genes tested",16802
+"DESeq2 FDR < 0.05",4743
+"DESeq2 FDR < 0.05, up in Dex",2557
+"DESeq2 FDR < 0.05, down in Dex",2186
+"DESeq2 FDR < 0.05 and |log2FC| > 1",1071
+"  of which up (log2FC > 1)",539
+"  of which down (log2FC < -1)",532
+"edgeR QL FDR < 0.05",5531
+"limma-voom FDR < 0.05",5596
+"Significant in all three methods",4628
+"Spearman r of log2FC, DESeq2 vs edgeR",0.998
+"Spearman r of log2FC, DESeq2 vs limma-voom",0.998
